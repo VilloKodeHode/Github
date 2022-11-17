@@ -1,0 +1,6 @@
+git init
+
+git add tutorial.txt
+
+Man kan også bruke gid add . for å legge til alle filer
+git add .
